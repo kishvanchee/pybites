@@ -1,2 +1,4 @@
 env/
 platform-dependencies/
+exercises/
+__pycache__/
